@@ -1,2 +1,2 @@
-# Curso-git-fatec
+# Capycurso
 Curso de versionamento 
